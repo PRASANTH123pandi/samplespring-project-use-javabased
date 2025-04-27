@@ -1,0 +1,21 @@
+<!--<?xml version="1.0" encoding="UTF-8"?>-->
+<!--<beans xmlns="http://www.springframework.org/schema/beans"-->
+<!--       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"-->
+<!--       xsi:schemaLocation="-->
+<!--        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">-->
+
+<!--    &lt;!&ndash; bean definitions here &ndash;&gt;-->
+
+<!--    <bean id="z" class="com.sample.Zoo">-->
+<!--    <property name="name" value="vazagZoo"/>-->
+<!--&lt;!&ndash;     <property name="animal" ref="monkey"/>&ndash;&gt;-->
+<!--        <constructor-arg name="animal" ref="monkey"/>-->
+<!--    </bean>-->
+<!--    <bean id="tiger" class="com.sample.Tiger">-->
+
+<!--    </bean>-->
+<!--    <bean id="monkey" class="com.sample.Monkey">-->
+
+<!--    </bean>-->
+
+<!--</beans>-->
